@@ -1,2 +1,2 @@
 # Java
-my Java data structures learning journey
+My Java data structures learning journey
